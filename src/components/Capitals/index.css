@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.main-bg {
+  background-color: #93c5fd;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-card {
+  background-color: #f8fafc;
+  padding: 10px;
+  border-radius: 10px;
+  font-family: Roboto;
+  width: 60%;
+}
+
+.select-edit {
+  width: 130px;
+  height: 30px;
+  border-color: #cbd2d9;
+  border-radius: 10px;
+}
+.sub-card {
+  display: flex;
+  align-items: center;
+}
